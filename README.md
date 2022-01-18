@@ -25,7 +25,6 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -107,16 +106,7 @@ https://user-images.githubusercontent.com/85664936/140608210-6541d1b6-1f12-4b8e-
 <br>
 <br >
 
-### ANY DOUBT CLICK THE YOUTUBE LOGO👇🏻👇🏻  
-  
-  
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://tinyurl.com/yjrwk2u6)
-
-    
-    
-    
-    
-    
+   
     
 ### 📃 How Can I Download the Bot Script?
 
